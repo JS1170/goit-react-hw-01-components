@@ -15,18 +15,16 @@
   text-align: center;
 }
 
-.cellTitle{
-    text-transform: uppercase;
-    background: #e27e7e;
-        color: rgb(255, 255, 255);
-        padding: 12px 20px;
-        border: 1px solid white;
-
+.cellTitle {
+  text-transform: uppercase;
+  background: #e27e7e;
+  color: rgb(255, 255, 255);
+  padding: 12px 20px;
+  border: 1px solid white;
 }
 
-
 .trClass {
-    background: #e27e7e;
+  background: #e27e7e;
 }
 
 .cellTable {

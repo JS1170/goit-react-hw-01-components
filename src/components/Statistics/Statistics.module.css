@@ -26,14 +26,12 @@
   padding: 0px;
   margin: 0px;
   display: flex;
-  -webkit-box-pack: justify;
   justify-content: space-between;
 }
 
 .item {
   display: flex;
   flex-direction: column;
-  -webkit-box-align: center;
   align-items: center;
   width: 33.3333%;
   padding: 20px;
