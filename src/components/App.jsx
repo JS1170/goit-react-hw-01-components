@@ -1,4 +1,4 @@
-import PropTypes from "prop-types";
+// import PropTypes from "prop-types";
 import user from '../data/user.json';
 import { Profile } from './Profile';
 import data from '../data/data.json';
@@ -17,7 +17,7 @@ export const App = () => {
         location={user.location}
         avatar={user.avatar}
         followers={user.stats.followers}
-        view={user.stats.views}
+        views={user.stats.views}
         likes={user.stats.likes}
       />
       <Statistics title="Upload stats" stats={data} />
