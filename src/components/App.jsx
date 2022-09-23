@@ -1,4 +1,4 @@
-// import PropTypes from "prop-types";
+import PropTypes from "prop-types";
 import user from '../data/user.json';
 import { Profile } from './Profile';
 import data from '../data/data.json';

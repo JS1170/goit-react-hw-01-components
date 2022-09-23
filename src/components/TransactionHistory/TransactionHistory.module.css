@@ -23,13 +23,17 @@
   border: 1px solid white;
 }
 
-.trClass {
-  background: #e27e7e;
-}
-
 .cellTable {
   padding: 12px;
   border: 1px solid rgb(255, 255, 255);
-  background: rgb(237, 210, 210);
+  /* background: rgb(237, 210, 210); */
   border-bottom: 1px solid rgb(255, 255, 255);
+}
+
+.trClass {
+  background: #f5b6b6;
+}
+
+.trClass:nth-of-type(even) {
+  background: rgb(232, 232, 232);
 }

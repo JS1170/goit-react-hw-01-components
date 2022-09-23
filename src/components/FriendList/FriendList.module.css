@@ -26,8 +26,21 @@
   box-shadow: rgba(137, 137, 137, 0.662) 3px 3px 3px;
 }
 
-/* .status {
-} */
+.status {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  background-color: blue;
+  border-radius: 50%;
+}
+
+.onLine {
+  background-color:green;
+}
+
+.offLine {
+  background-color: red;
+}
 
 .avatar {
   padding: 12px;
