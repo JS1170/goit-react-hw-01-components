@@ -21,13 +21,13 @@
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 12px;
-  border: 1px solid rgb(228, 234, 243);
+  border: 2px solid rgb(228, 234, 243);
   background-color: rgb(242, 242, 242);
-  box-shadow: rgba(147, 143, 143, 0.662) 3px 3px 3px;
+  box-shadow: rgba(137, 137, 137, 0.662) 3px 3px 3px;
 }
 
-.status {
-}
+/* .status {
+} */
 
 .avatar {
   padding: 12px;
